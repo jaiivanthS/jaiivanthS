@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaivanth Srinivasan</h1>
-<h3 align="center">I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.</h3>
+<h3 align="center">.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiivanths&label=Profile%20views&color=0e75b6&style=flat" alt="jaiivanths" /> </p>
 
